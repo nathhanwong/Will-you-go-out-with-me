@@ -41,7 +41,8 @@ const handleYesClick = () => {
     const randomIndex = Math.floor(Math.random() * dateIdeas.length);
     const selectedDateIdea = dateIdeas[randomIndex];
 
-    alert(`you're the best girlfriend ever, `);
+    alert(`you're the best girlfriend ever
+    i love you so much Nicole :) `);
   });
 
   // Replace yesBtn with the new letsGoBtn
